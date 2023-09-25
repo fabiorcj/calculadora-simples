@@ -1,0 +1,1 @@
+Projeto de calculadora feito em aula para pratica. O intuito é aprimora-la futuramento sozinho com o adquirir de conhecimentos de novas ferramentas.
